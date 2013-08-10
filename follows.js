@@ -12,9 +12,9 @@
 		hideForm		= 0;
 	*/
 
-	var defaultKey		= 'i8UqsFjFcKg4cqNqaDit40nnJTEoDqOt5WWzhezFvAJieO92', // Unique master Xively API key to be used as a default
-		defaultFeeds	= ['965870717'], // Comma separated array of Xively Feed ID numbers
-		applicationName	= 'poke: dati corrente', // Replaces Xively logo in the header
+	var defaultKey		= 'QzHx9kwVjA7JJIxoOPzLiucRZhkL90zEQIGbPTwiubIa9S9C', // Unique master Xively API key to be used as a default
+		defaultFeeds	= ['1300974931'], // Comma separated array of Xively Feed ID numbers
+		applicationName	= 'poke: dati umidità Blello', // Replaces Xively logo in the header
 		dataDuration	= '90days', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 0, // Default interval for data to be displayed (in seconds)
 		dataColor		= '', // CSS HEX value of color to represent data (omit leading #)
